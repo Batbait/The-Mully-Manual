@@ -1,10 +1,7 @@
 # The Mully Manual
 
-Manual of tidbits and tips I've collected through life and figured were worth sharing.
+Website:
 
-## Manuals
+https://batbait.github.io/The-Mully-Manual/
 
-- about.md
-- fishing.md
-- hunting.md
-- technology.md
+A collection of practical knowledge about hunting, fishing, technology, and life.
