@@ -51,5 +51,3 @@ The best hunters are not necessarily the most successful.
 They are the ones who continue learning.
 
 Every empty stand, missed opportunity, blown stalk, and unsuccessful season carries a lesson. Often those lessons teach more than success ever will.
-
-Hunting
