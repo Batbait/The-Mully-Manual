@@ -6,7 +6,7 @@ title: Fishing Manual
 
 Fishing has been a part of my life for as long as I can remember.
 
-Growing up along the North Branch of the Potomac River near Ridgeley, West Virginia, I spent countless hours exploring rivers, streams, ponds, and lakes throughout Appalachia. Over the years I've targeted everything from panfish and trout to bass, catfish, and whatever else happened to be willing to bite that day.
+Growing up along the North Branch of the Potomac River near Ridgeley, West Virginia, I spent countless hours exploring rivers, streams, ponds, and lakes throughout Appalachia. Over the years I've targeted everything from panfish and trout to bass, catfish, and whatever else happened to be willing to bite that day. I have many fond memories from bank fishing ponds and lakes to kayaking, canoing, and john boat trolling down the Potomac. One of my favorites is night fishing for carp and catfish. 
 
 Like most anglers, I've had days where every cast seemed to produce a fish and plenty of days where I couldn't buy a bite. Both taught valuable lessons.
 
@@ -24,14 +24,14 @@ Observations, techniques, and lessons learned from fishing moving water.
 ### Lake & Pond Fishing
 Strategies and experiences from still-water environments.
 
-### Catfishing
-Tactics, gear, and lessons from pursuing one of my favorite species.
+### Night Fishing
+Tactics, gear, and lessons from fishing the darkness.
 
-### Seasonal Patterns
-How weather, temperature, water conditions, and time of year affect fish behavior.
+### Bow Fishing
+Lessons learned and knowledge gained from several bowfishing expeditions
 
-### Gear & Tackle
-Equipment I've used, what worked, what didn't, and why.
+### Fly Fishing
+Recently acquire skill, documenting progress and skills as they develop. 
 
 ### Fishing Reports & Field Notes
 Current observations and lessons learned from recent trips.
