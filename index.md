@@ -1,25 +1,17 @@
 # The Mully Manual
 
-Practical knowledge about hunting, fishing, technology, and life.
-
----
-
-## Mission
-
-I document and share practical knowledge about hunting, fishing, technology, and personal growth. My goal is to leave behind useful information that helps others learn faster than I did.
-
----
+Manual of tidbits and tips I've collected through life and figured were worth sharing.
 
 ## Manuals
 
-### 📖 Start Here
-- about.md
+### 📖 General
+- [About](about.md)
 
 ### 🎣 Fishing
-- fishing.md
+- [Fishing Manual](fishing.md)
 
 ### 🦌 Hunting
-- hunting.md
+- [Hunting Manual](hunting.md)
 
 ### 💻 Technology
-- technology.md
+- [Technology Manual](technology.md)
