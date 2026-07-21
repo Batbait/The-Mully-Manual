@@ -2,6 +2,8 @@
 
 Welcome to The Mully Manual
 
+If you want a quick look at some of my past adventures, [Look no further!](beforemanual.html)
+
 My name is Ethan, though most people online know me as Mully.
 
 
