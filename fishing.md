@@ -24,19 +24,19 @@ The following manual describes each species of fish I have built and retained kn
 
 ### Night Fishing
 Night fishing is an absolute blast, the below document will explain the gear and tips I've learned to use.
-[Night Fishing Manual](nightfishing.md)
+[Night Fishing Manual](nightfishing.html)
 
 ### Bow Fishing
 Short manual explaining the basics of bow fishing, I've gone on a handful of bowfishing excursions and it's an unforgetable experience every time. 
-[Bow Fishing Manual](bowfishing.md)
+[Bow Fishing Manual](bowfishing.html)
 
 ### Fly Fishing
 Recently acquire skill, documenting progress and skills as they develop. 
-[Fly Fishing Manual](flyfishing.md)
+[Fly Fishing Manual](flyfishing.html)
 
 ### Fishing Reports & Field Notes
 Current observations and lessons learned from recent trips.
-[Fishing Field Notes](fishfieldnotes.md)
+[Fishing Field Notes](fishfieldnotes.html)
 
 ## Philosophy
 
