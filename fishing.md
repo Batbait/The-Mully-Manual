@@ -20,13 +20,13 @@ I don't claim to know everything about fishing. Far from it. But every trip teac
 
 ### Fish Species
 The following manual describes each species of fish I have built and retained knowledge about.
-[Fish Species Manual](fishspecies.html)
+[Fish Species Manual](fishspecies.html
 
 ### Night Fishing
 
 Night fishing is an absolute blast. The below document explains the gear and techniques I've found most effective.
 
-[Night Fishing Manual](-fishing/)
+[Night Fishing Manual](https://batbait.github.io/The-Mully-Manual/night-fishing/
 
 ### Bow Fishing
 Short manual explaining the basics of bow fishing, I've gone on a handful of bowfishing excursions and it's an unforgetable experience every time. 
