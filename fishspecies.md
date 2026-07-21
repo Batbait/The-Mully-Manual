@@ -1,3 +1,7 @@
+---
+title: Fish Species Manual
+---
+
 # Fish Species Manual
 
 The following is a list of fish species I have encountered and built knowledge about. Hopefully this helps you target them more effectively.
