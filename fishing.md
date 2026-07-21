@@ -26,7 +26,7 @@ The following manual describes each species of fish I have built and retained kn
 
 Night fishing is an absolute blast. The below document explains the gear and techniques I've found most effective.
 
-[Night Fishing](nightfishing.md)
+[Night Fishing](nightfishing.html)
 
 ### Bow Fishing
 Short manual explaining the basics of bow fishing, I've gone on a handful of bowfishing excursions and it's an unforgetable experience every time. 
