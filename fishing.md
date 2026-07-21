@@ -18,23 +18,25 @@ I don't claim to know everything about fishing. Far from it. But every trip teac
 
 ## Topics
 
-### River Fishing
-Observations, techniques, and lessons learned from fishing moving water.
-
-### Lake & Pond Fishing
-Strategies and experiences from still-water environments.
+### Fish Species
+The following manual describes each species of fish I have built and retained knowledge about.
+[Fish Species Manual](fishspecies.md)
 
 ### Night Fishing
-Tactics, gear, and lessons from fishing the darkness.
+Night fishing is an absolute blast, the below document will explain the gear and tips I've learned to use.
+[Night Fishing Manual](nightfishing.md)
 
 ### Bow Fishing
-Lessons learned and knowledge gained from several bowfishing expeditions
+Short manual explaining the basics of bow fishing, I've gone on a handful of bowfishing excursions and it's an unforgetable experience every time. 
+[Bow Fishing Manual](bowfishing.md)
 
 ### Fly Fishing
 Recently acquire skill, documenting progress and skills as they develop. 
+[Fly Fishing Manual](flyfishing.md)
 
 ### Fishing Reports & Field Notes
 Current observations and lessons learned from recent trips.
+[Fishing Field Notes](fishfieldnotes.md)
 
 ## Philosophy
 
