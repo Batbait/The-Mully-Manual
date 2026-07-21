@@ -1,6 +1,5 @@
 ---
 title: Night Fishing Manual
-permalink: /night-fishing/
 ---
 
 # Night Fishing Manual
