@@ -20,7 +20,7 @@ I don't claim to know everything about fishing. Far from it. But every trip teac
 
 ### Fish Species
 The following manual describes each species of fish I have built and retained knowledge about.
-[Fish Species Manual](fishspecies.md)
+[Fish Species Manual](fishspecies.html)
 
 ### Night Fishing
 Night fishing is an absolute blast, the below document will explain the gear and tips I've learned to use.
