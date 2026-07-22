@@ -29,14 +29,17 @@ Calling, locating birds, setup strategies, and hard-earned lessons from spring m
 ### [Bear Hunting Manual](bearhunting.html)
 Experiences, preparation, and observations from pursuing one of Appalachia's most impressive game animals.
 
-### [Small Game Manual](smallgame.html)
-Squirrel hunting and other opportunities that often teach skills applicable to every type of hunting.
+### [Squirrel Hunting Manual](squirrelhunting.html)
+Squirrel hunting experiences, setup strategies, and lessons learned from some of the hardest targets in the woods.
 
 ### [Public Land](publicland.html)
 Strategies, challenges, etiquette, and lessons learned from hunting shared lands.
 
 ### [Scouting & Fieldcraft](scouting.html)
 Reading sign, understanding terrain, using maps, and learning to think like the animals being pursued.
+
+### [Trapping Manual](trapping.html)
+Trap selection, placement, baits, and other tips and tricks i've learned from several seasons of trapping fur bearers. 
 
 ### [Gear & Equipment](huntinggear.html)
 Equipment I've used, what worked, what didn't, and what I would recommend to new hunters.
