@@ -4,14 +4,10 @@ Manual of tidbits and tips I've collected through life and figured were worth sh
 
 ## Manuals
 
-### 📖 General
-- [About](about.md)
+### [About](about.md)
 
-### 🎣 Fishing
-- [Fishing Manual](fishing.md)
+### [Fishing Manual](fishing.md)
 
-### 🦌 Hunting
-- [Hunting Manual](hunting.md)
+### [Hunting Manual](hunting.md)
 
-### 💻 Technology
-- [Technology Manual](technology.md)
+### [Technology Manual](technology.md)
