@@ -18,27 +18,21 @@ I don't claim to know everything about fishing. Far from it. But every trip teac
 
 ## Topics
 
-### Fish Species
+### [Fish Species Manual](fishspecies.html)
 The following manual describes each species of fish I have built and retained knowledge about.
-[Fish Species Manual](fishspecies.html)
 
-### Night Fishing
+### [Night Fishing Manual](nightfishing.html)
 
 Night fishing is an absolute blast. The below document explains the gear and techniques I've found most effective.
 
-[Night Fishing Manual](nightfishing.html)
-
-### Bow Fishing
+### [Bow Fishing Manual](bowfishing.html)
 Short manual explaining the basics of bow fishing, I've gone on a handful of bowfishing excursions and it's an unforgetable experience every time. 
-[Bow Fishing Manual](bowfishing.html)
 
-### Fly Fishing
+### [Fly Fishing Manual](flyfishing.html)
 Recently acquire skill, documenting progress and skills as they develop. 
-[Fly Fishing Manual](flyfishing.html)
 
-### Fishing Reports & Field Notes
+### [Fishing Field Notes](fishfieldnotes.html)
 Current observations and lessons learned from recent trips.
-[Fishing Field Notes](fishfieldnotes.html)
 
 ## Philosophy
 
