@@ -11,3 +11,5 @@ Manual of tidbits and tips I've collected through life and figured were worth sh
 ### [Hunting Manual](hunting.md)
 
 ### [Technology Manual](technology.md)
+
+### [Happy Living Manual](happylife.md)
