@@ -20,7 +20,7 @@ I do not claim to be an expert. I'm simply someone who loves spending time in th
 
 ## Topics
 
-### Deer Hunting
+### [Deer Hunting](deerhunting.html) 
 Scouting, stand placement, deer behavior, and lessons learned from years of pursuing whitetails.
 
 ### Turkey Hunting
