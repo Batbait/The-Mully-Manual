@@ -1,4 +1,4 @@
-<img src="AboutImages/dollysods2.JPG" alt="Dolly Sods" style="width:100%; height:auto
+AboutImages/dollysods2.JPG
 # The Mully Manual
 
 Manual of tidbits and tips I've collected through life and figured were worth sharing.
