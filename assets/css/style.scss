@@ -3,21 +3,14 @@
 
 @import "{{ site.theme }}";
 
+/* Header Banner */
+
 .page-header {
   background-image: url("/The-Mully-Manual/AboutImages/dollysods2.JPG");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 450px;
-}
-
-.main-content {
-  font-size: 18px;
-  line-height: 1.8;
-  max-width: 1100px;
-}
-
-.page-header {
   position: relative;
 }
 
@@ -28,8 +21,55 @@
   background: rgba(0,0,0,0.45);
 }
 
+/* Header Text */
+
 .project-name,
-.project-tagline {
+.project-tagline,
+.btn {
   position: relative;
   z-index: 1;
+}
+
+/* Main Content Area */
+
+.main-content {
+  font-size: 18px;
+  line-height: 1.8;
+  max-width: 1100px;
+
+  background-color: #f2ebdc;
+  color: #3e3428;
+
+  padding: 2rem 3rem;
+}
+
+/* Whole page background */
+
+body {
+  background-color: #d8ccb3;
+}
+
+/* Headings */
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4 {
+  color: #4f5d2f;
+}
+
+/* Links */
+
+.main-content a {
+  color: #455d33;
+}
+
+.main-content a:hover {
+  color: #2a3d1d;
+}
+
+/* Horizontal Rules */
+
+.main-content hr {
+  border-top: 2px solid #b8aa8a;
 }
