@@ -20,28 +20,28 @@ I do not claim to be an expert. I'm simply someone who loves spending time in th
 
 ## Topics
 
-### [Deer Hunting](deerhunting.html) 
+### [Deer Hunting Manual](deerhunting.html) 
 Scouting, stand placement, deer behavior, and lessons learned from years of pursuing whitetails.
 
-### Turkey Hunting
+### [Turkey Hunting Manual](turkeyhunting.html)
 Calling, locating birds, setup strategies, and hard-earned lessons from spring mornings in the woods.
 
-### Bear Hunting
+### [Bear Hunting Manual](bearhunting.html)
 Experiences, preparation, and observations from pursuing one of Appalachia's most impressive game animals.
 
-### Small Game
+### [Small Game Manual](smallgame.html)
 Squirrel hunting and other opportunities that often teach skills applicable to every type of hunting.
 
-### Public Land
+### [Public Land](publicland.html)
 Strategies, challenges, etiquette, and lessons learned from hunting shared lands.
 
-### Scouting & Fieldcraft
+### [Scouting & Fieldcraft](scouting.html)
 Reading sign, understanding terrain, using maps, and learning to think like the animals being pursued.
 
-### Gear & Equipment
+### [Gear & Equipment](huntinggear.html)
 Equipment I've used, what worked, what didn't, and what I would recommend to new hunters.
 
-### Hunting Reports & Field Notes
+### [Hunting Reports & Field Notes](huntingreports.html)
 Seasonal observations, lessons learned, and notes from recent hunts.
 
 ## Philosophy
