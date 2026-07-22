@@ -8,7 +8,9 @@ Technology has been one of the most rewarding and challenging pursuits of my lif
 
 Unlike hunting and fishing, I wasn't born into the world of information technology. Everything I've learned has come from curiosity, persistence, formal education, professional experience, and more than a few mistakes along the way.
 
-My journey into technology began after leaving the Marine Corps and trying to determine what path I wanted to build for myself. While working as an explosives operator for Northrop Grumman, I began pursuing industry certifications and a degree in cybersecurity, often studying before work, after work, and on weekends.
+I did have a slight edge when it came to learning about technology, as my mother worked in information technology and was able to provide me with a desktop personal computer in my youth for me to explore and discover from. This spurred my lifelong love and interest for video games and technology.
+
+My journey into the information technology career field began after leaving the Marine Corps and trying to determine what path I wanted to build for myself. While working as an explosives operator for Northrop Grumman, I began pursuing industry certifications and a degree in cybersecurity, often studying before work, after work, and on weekends.
 
 Halfway through that journey, I landed my first role in IT as a Help Desk Technician at IBM. The transition from manufacturing and defense work into information technology was intimidating at first, but I quickly discovered that troubleshooting computers wasn't all that different from troubleshooting other complex systems. Success came from understanding how things were supposed to work, identifying what was different, and methodically finding the root cause.
 
