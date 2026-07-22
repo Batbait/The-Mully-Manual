@@ -266,6 +266,94 @@ Curiosity transforms fear into exploration.
 
 Curiosity makes life feel larger.
 
+## The Myth Of Utopia
+
+Another idea that has influenced the way I think about life is the realization that perfection is not a destination.
+
+Human beings have spent centuries imagining ideal societies.
+
+Perfect governments.
+
+Perfect economies.
+
+Perfect cultures.
+
+Perfect people.
+
+Perfect futures.
+
+The problem is that perfection exists only in imagination.
+
+Real life is messier than that.
+
+Every attempt to build a perfect world eventually collides with imperfect people, imperfect knowledge, and imperfect circumstances.
+
+History is filled with examples of individuals and movements that believed they could create paradise on earth if only they were given enough power or if enough obstacles were removed.
+
+Too often, those obstacles turned out to be other human beings.
+
+The pursuit of perfection has justified a remarkable amount of suffering.
+
+I think a better goal is improvement.
+
+Not perfection.
+
+Not utopia.
+
+Improvement.
+
+A good life is not a perfect life.
+
+A good society is not a perfect society.
+
+A good relationship is not a perfect relationship.
+
+The question is not:
+
+"How do we create perfection?"
+
+The question is:
+
+"What is the best we can reasonably do given the circumstances we face today?"
+
+That question is smaller.
+
+Less ambitious.
+
+Less exciting.
+
+It is also far more practical.
+
+## Progress Without Perfection
+
+As I've gotten older, I've become less interested in grand visions for humanity and more interested in small acts that make life better.
+
+Helping a friend.
+
+Teaching a skill.
+
+Planting a tree.
+
+Improving a process.
+
+Building something useful.
+
+Making someone laugh.
+
+These things will never create utopia.
+
+They can, however, improve the corner of the world immediately around us.
+
+And that's enough.
+
+In many ways I think happiness comes from accepting that we are finite creatures living in an imperfect universe.
+
+Once perfection is removed from the equation, improvement becomes much easier to appreciate.
+
+The goal is not to create heaven.
+
+The goal is to leave things a little better than you found them.
+
 ## Final Thoughts
 
 I do not know why the universe exists.
