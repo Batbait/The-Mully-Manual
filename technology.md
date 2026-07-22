@@ -24,25 +24,19 @@ I don't claim to know everything. In fact, one of the first lessons technology t
 
 ## Topics
 
-### Cybersecurity
+### [Cybersecurity Manual](cybersecurity.html)
 Security concepts, best practices, career development, certifications, and lessons learned while entering the cybersecurity field.
 
-### Information Technology
+### [Information Technology Manual](informationtechnology.html)
 Troubleshooting techniques, system administration concepts, common problems, and practical solutions.
 
-### WGU & Education
-Lessons learned while earning a degree, study strategies, certification preparation, and advice for students considering a career in technology.
-
-### Career Development
-Breaking into IT, advancing professionally, interviewing, networking, and building valuable skills.
-
-### Homelabs & Projects
+### [Homelabs & Projects](homelabs.html)
 Hands-on experiments, personal projects, self-hosting, and practical ways to develop technical skills outside of the workplace.
 
-### Hardware & Software
+### [Hardware & Software Manual](hardwaresoftware.html)
 Tools, applications, equipment, and resources that I've found useful throughout my career and personal projects.
 
-### Technology Field Notes
+### [Technology Field Notes](techfieldnotes.html)
 Observations, lessons learned, project write-ups, and notes from ongoing learning experiences.
 
 ## Philosophy
