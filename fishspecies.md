@@ -137,68 +137,109 @@ Rock bass are aggressive for their size and are excellent fish for introducing n
 
 ---
 
-## Bluegill
+## Sunfish
 
-One of the most widespread and important game fish in North America.
+Sunfish are among the most common and important sport fish found throughout North America.
 
-Bluegill are members of the sunfish family and are recognizable by their deep body shape, dark ear flap, and bright coloration during spawning season.
+Members of the sunfish family (Centrarchidae) are widespread throughout the rivers, streams, ponds, lakes, and backwaters of Appalachia. While many anglers casually refer to all sunfish as "bluegill," several different species may be encountered, along with numerous naturally occurring hybrids.
+
+Common species found throughout my local waters include:
+
+- Bluegill
+- Green Sunfish
+- Pumpkinseed
+- Redbreast Sunfish
+- Longear Sunfish
+- Warmouth
+
+Depending on the body of water, hybridization between species can be extremely common, making identification difficult at times.
 
 ### Habitat
 
-Bluegill commonly inhabit:
+Most sunfish are associated with:
 
-- Ponds
-- Lakes
-- Slow-moving rivers
-- Backwaters
+- Slow-moving water
+- Shoreline structure
 - Weed beds
 - Fallen timber
+- Root systems
+- Undercut banks
+- Backwaters
+- Shallow pools
 
-They are especially common around structure and vegetation.
+In rivers and streams, sunfish often concentrate in calmer water adjacent to current.
 
 ### Effective Baits & Lures
 
-Bluegill readily take:
+Most sunfish readily take:
 
 - Worms
 - Crickets
 - Waxworms
 - Small jigs
 - Tiny spinners
+- Beetle spins
 - Micro crankbaits
+- Small soft plastics
 - Flies
+
+Natural baits are often extremely effective, particularly when introducing new anglers to the sport.
+
+### Fly Fishing
+
+Sunfish are excellent fly rod targets and are often responsible for introducing anglers to fly fishing.
+
+Effective flies include:
+
+- Small streamers
+- Woolly buggers
+- Poppers
+- Nymphs
+- Terrestrial imitations
+
+Even large flies intended for bass will occasionally be attacked by aggressive sunfish.
 
 ### Tackle
 
-Light tackle provides the most fun.
+Light tackle generally produces the most enjoyable experience.
 
-- 2-6 lb test line
+Recommended setups include:
+
 - Ultralight rods
-- Small hooks
+- Light spinning rods
+- Light fly rods
+- 2-6 lb test line
+
+Sunfish may not be large, but they fight surprisingly hard for their size.
 
 ### Notes
 
-Bluegill are often viewed as beginner fish, but experienced anglers know they can be challenging when pressured and provide excellent action throughout the year.
+One lesson I've learned is that not every sunfish is a bluegill.
 
-They are also one of the best fish species for teaching children and new anglers because bites are frequent and the techniques learned transfer well to many other species.
+When I was younger, I referred to almost every panfish I caught as a bluegill. As I gained experience, I began noticing substantial differences in coloration, body shape, markings, habitat preferences, and behavior.
 
----
+Today I suspect many of the fish I once identified as bluegill were actually other sunfish species or hybrids.
 
-## A Note About Sunfish
+Learning to identify individual species has become one of the more enjoyable aspects of fishing local waters.
 
-Many of the techniques used to catch rock bass and bluegill apply to most members of the sunfish family.
+### Why Sunfish Matter
 
-Other species commonly encountered throughout Appalachia include:
+Many anglers view sunfish as beginner fish.
 
-- Pumpkinseed
-- Redbreast Sunfish
-- Green Sunfish
-- Warmouth
-- Longear Sunfish
+I disagree.
 
-While individual species have their preferences, they generally respond to similar tackle, presentations, and habitats.
+Sunfish are:
 
-If you can consistently catch bluegill and rock bass, you'll already have a solid foundation for targeting most other sunfish species you encounter.
+- Abundant
+- Beautiful
+- Aggressive
+- Accessible
+
+They provide consistent action, teach valuable fishing skills, and remain enjoyable to pursue regardless of experience level.
+
+Some of my favorite days on the water have involved nothing more than a light rod, a handful of small lures, and a stream full of sunfish.
+
+They're often overlooked, but they deserve far more appreciation than they receive.
 
 ---
 
